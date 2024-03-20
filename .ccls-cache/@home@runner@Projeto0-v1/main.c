@@ -3,7 +3,7 @@
 int main(void) {
   int opcao;
   do {
-    pritnf("\nMenu Principal\n");
+    printf("\nMenu Principal\n");
     printf("1 - Criar Tarefa\n");
     printf("2 - Deletar Tarefa\n");
     printf("3 - Listar Tarefas\n");
